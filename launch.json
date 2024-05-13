@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "console": "internalConsole",
+            "projectName": "PruebasUnitarias18042024_fe466882"
+        }
+    ]
+}
